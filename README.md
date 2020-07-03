@@ -1,0 +1,2 @@
+# TCCFacidAPI
+[![LoRaWAN®: Uma alternativa para monitoramento em IoT a longas distâncias](https://github.com/AdailSilva/TCCFacidAPI/blob/master/Diagrams/LoRaWAN%C2%AE_%20Uma%20alternativa%20para%20monitoramento%20em%20IoT%20a%20longas%20dist%C3%A2ncias.png "LoRaWAN™: Uma alternativa para monitoramento em IoT a longas distâncias")](https://github.com/AdailSilva/TCCFacidAPI/blob/master/Diagrams/LoRaWAN%C2%AE_%20Uma%20alternativa%20para%20monitoramento%20em%20IoT%20a%20longas%20dist%C3%A2ncias.png "LoRaWAN™: Uma alternativa para monitoramento em IoT a longas distâncias")

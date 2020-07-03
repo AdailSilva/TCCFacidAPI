@@ -1,0 +1,19 @@
+
+Start server command:
+
+python -m SimpleHTTPServer 8000
+
+
+Note:
+
+Chamar os arquivos indicando o endereço do Servidor de Aplicação.
+
+No caso o Server em Python (SimpleHTTPServer)
+- - -> Assim as requisições virão com os Cabeçalhos: OPTIONS. <- - -
+
+Se apenas abrir um arquivo e executar isso não ocorrerá.
+
+
+--- EXEMPLOS --- 
+Correto:	http://localhost:8000/teste-get-categorias.html
+Errado:	file:///home/adailsilva/Apps/SimpleHTTPServer/teste-get-categorias.html

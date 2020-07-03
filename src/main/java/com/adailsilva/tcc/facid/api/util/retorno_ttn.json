@@ -1,0 +1,45 @@
+{
+	"app_id": "devices_au915-928",
+	"dev_id": "mote_09_d1mini_otaa",
+	"hardware_serial": "344C390D3CE9F575",
+	"port": 1,
+	"counter": 1719,
+	"payload_raw": "QWRhaWxTaWx2YQ==",
+	"payload_fields": {
+		"text": "AdailSilva"
+	},
+	"metadata": {
+		"time": "2019-10-10T11:53:43.401148652Z",
+		"frequency": 916.8,
+		"modulation": "LORA",
+		"data_rate": "SF7BW125",
+		"coding_rate": "4/5",
+		"gateways": [
+			{
+				"gtw_id": "eui-a840411b7dcc4150",
+				"timestamp": 228436966,
+				"time": "2019-10-10T11:53:43.289767Z",
+				"channel": 0,
+				"rssi": -59,
+				"snr": 7.8,
+				"rf_chain": 1,
+				"latitude": -5.04761,
+				"longitude": -42.78149,
+				"altitude": 25
+			},
+			{
+				"gtw_id": "eui-b827ebfffef518e3",
+				"timestamp": 202744203,
+				"time": "2019-10-10T11:53:43.277637Z",
+				"channel": 0,
+				"rssi": -40,
+				"snr": 9.5,
+				"rf_chain": 0,
+				"latitude": -5.06989,
+				"longitude": -42.80247,
+				"altitude": 98
+			}
+		]
+	},
+	"downlink_url": "https://integrations.thethingsnetwork.org/ttn-eu/api/v2/down/devices_au915-928/devices_au915-928?key=ttn-account-v2.fL8uP23ppZxXPsvkgaL9s_DYRjsDIH4Csd-w-ZYBD9o"
+}
